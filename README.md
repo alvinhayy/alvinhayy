@@ -7,7 +7,8 @@
   <a href="https://notes.hayyvin.my.id"><img src="https://img.shields.io/badge/notes-reference-6c6c6c?style=flat-square"></a>
 </p>
 
-I take apart Android applications and write about what I find.
+I take apart Android applications, and I automate the parts of offensive work
+that should not need a human.
 
 Most of my time goes to the awkward middle of mobile security — the part after
 static analysis stops being useful and before you can actually reach the
@@ -20,7 +21,8 @@ wrong about why.
 ### Currently
 
 - Reverse engineering Android apps — packers, RASP, Flutter/Dart AOT binaries
-- Building the tooling that makes that repeatable instead of a one-off
+- Building multi-agent tooling for engagement work, with scope and phase gates
+  rather than a model left to its own judgement
 - Writing it down, including the approaches that **didn't** work
 
 ### Projects
@@ -28,6 +30,7 @@ wrong about why.
 | | |
 |---|---|
 | **[Mobile-Pentest-Setup](https://github.com/alvinhayy/Mobile-Pentest-Setup)** | Build an anti-detection rooted Android AVD in one command — KernelSU root, system-wide device identity spoofing, proxy CA into the APEX trust store |
+| **RedDelta-TA416** <sub>`private`</sub> | AI red team orchestrator — 22 specialist agents over an isolated Kali execution plane, RAG-backed knowledge, persistent engagement state, and phase gates that stop for human approval before exploitation. SvelteKit control plane, Python MCP servers |
 | **[URL-Status-Checker](https://github.com/alvinhayy/URL-Status-Checker)** | Bulk URL status checker for bug bounty recon |
 | **[Scanning-Malware](https://github.com/alvinhayy/Scanning-Malware)** | Scan a directory against VirusTotal |
 | **[MageR-Scripts](https://github.com/alvinhayy/MageR-Scripts)** | Small scripts for things I got tired of doing by hand |
@@ -52,6 +55,9 @@ More at **[blog.hayyvin.my.id](https://blog.hayyvin.my.id)** · HTB and CTF writ
   <img src="https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/Bash-4eaa25?style=flat-square&logo=gnubash&logoColor=white">
   <img src="https://img.shields.io/badge/Docker-2496ed?style=flat-square&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/Svelte-ff3e00?style=flat-square&logo=svelte&logoColor=white">
+  <img src="https://img.shields.io/badge/MCP-111111?style=flat-square">
 </p>
 
 <sub>Yogyakarta, Indonesia · everything published here comes from systems I own or was authorised to test</sub>

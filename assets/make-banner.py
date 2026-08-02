@@ -62,22 +62,22 @@ def make(out, seed=7):
 
     d.text((40, 18), "ALVINHAYY", font=F(IMPACT, 96), fill=INK)
 
-    tag = "MOBILE SECURITY"
+    tag = "OFFENSIVE SECURITY"
     tw = d.textlength(tag, font=F(DIN, 24))
     d.rectangle([42, 122, 64 + tw, 152], fill=INK)
     d.text((53, 125), tag, font=F(DIN, 22), fill=PAPER)
 
-    d.text((44, 160), "REVERSE ENGINEERING  ·  ANDROID  ·  PENTEST TOOLING",
+    d.text((44, 160), "MOBILE RE  ·  ANDROID  ·  RED TEAM AUTOMATION",
            font=F(DIN, 30), fill=INK)
     d.text((46, 196), "YOGYAKARTA, INDONESIA", font=F(DIN, 20), fill=GREY)
     d.line([(46, 220), (470, 220)], fill=INK, width=2)
 
+    # Dua baris, dua sisi kerja: perkakas mobile dan orkestrator red team.
     for i, ln in enumerate([
-        "$ ./create-avd.sh --name lab1 --api 36 --full",
-        "+ SM-S921B   uid=0(root)   CA installed",
+        "$ ./create-avd.sh --api 36 --full   + SM-S921B  uid=0(root)",
+        "$ reddelta run --target <scope>     + 22 agents  6 MCP",
     ]):
-        d.text((46, 230 + i * 15), ln, font=F(MONO, 10),
-               fill=INK if ln[:1] == "+" else GREY)
+        d.text((46, 230 + i * 15), ln, font=F(MONO, 10), fill=GREY)
 
     for i, ln in enumerate([
         "$ getprop ro.product.model",
