@@ -32,16 +32,14 @@ wrong about why.
 ### Certifications
 
 <p>
-  <a href="https://credentials.offsec.com/208cf5a0-f5f3-4868-8c80-801d637f12a8#acc.BCKFRGyd"><img src="https://img.shields.io/badge/OSCP%2B-OffSec%20Certified%20Professional%20Plus-d6201c?style=flat-square"></a>
-  <a href="https://credentials.offsec.com/c6c40285-6a8b-4c1e-8a46-39ea453e27af#acc.Sy207jUx"><img src="https://img.shields.io/badge/OSCP-OffSec%20Certified%20Professional-111111?style=flat-square"></a>
-  <a href="https://labs.cyberwarfare.live/credential/achievement/695019df10dcee13b435d01c"><img src="https://img.shields.io/badge/CRTA-Certified%20Red%20Team%20Analyst-111111?style=flat-square"></a>
-</p>
-<p>
-  <a href="https://candidate.speedexam.net/certificate.aspx?SSTATE=am4131EniU8ntjp4bO5mXZc6H8MGDkW9Vwii87R2/h1y2EmWiLtb4YUiE8LiNfxg2wQ3sgELPvMhTq6FUZ2cMDuTTJEzDBrxQ5CfaEoXoP4="><img src="https://img.shields.io/badge/CAP%20v2-Certified%20AppSec%20Practitioner-6c6c6c?style=flat-square"></a>
-  <a href="https://drive.google.com/file/d/1Brgp7cTMvsDn_JvL3r0qozd3nF4MeF45/view"><img src="https://img.shields.io/badge/CyberOps-Cisco%20CyberOps%20Associate-6c6c6c?style=flat-square"></a>
+  <a href="https://credentials.offsec.com/208cf5a0-f5f3-4868-8c80-801d637f12a8#acc.BCKFRGyd"><img src="https://img.shields.io/badge/OSCP%2B-OffSec-d6201c?style=flat-square&labelColor=1f1f1f"></a>
+  <a href="https://credentials.offsec.com/c6c40285-6a8b-4c1e-8a46-39ea453e27af#acc.Sy207jUx"><img src="https://img.shields.io/badge/OSCP-OffSec-d6201c?style=flat-square&labelColor=1f1f1f"></a>
+  <a href="https://labs.cyberwarfare.live/credential/achievement/695019df10dcee13b435d01c"><img src="https://img.shields.io/badge/CRTA-CyberWarfare%20Labs-d6201c?style=flat-square&labelColor=1f1f1f"></a>
+  <a href="https://candidate.speedexam.net/certificate.aspx?SSTATE=am4131EniU8ntjp4bO5mXZc6H8MGDkW9Vwii87R2/h1y2EmWiLtb4YUiE8LiNfxg2wQ3sgELPvMhTq6FUZ2cMDuTTJEzDBrxQ5CfaEoXoP4="><img src="https://img.shields.io/badge/CAP%20v2-SecOps%20Group-d6201c?style=flat-square&labelColor=1f1f1f"></a>
+  <a href="https://drive.google.com/file/d/1Brgp7cTMvsDn_JvL3r0qozd3nF4MeF45/view"><img src="https://img.shields.io/badge/CyberOps-Cisco-d6201c?style=flat-square&labelColor=1f1f1f"></a>
 </p>
 
-<sub>Every badge links to the issuer's verification page.</sub>
+<sub>OffSec Certified Professional Plus · OffSec Certified Professional · Certified Red Team Analyst · Certified AppSec Practitioner v2 · Cisco CyberOps Associate — every badge links to the issuer's verification page.</sub>
 
 ### Projects
 
