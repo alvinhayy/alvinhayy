@@ -7,9 +7,7 @@
   <a href="https://notes.hayyvin.my.id"><img src="https://img.shields.io/badge/notes-reference-6c6c6c?style=flat-square"></a>
 </p>
 
-Penetration tester at **[PT SGI Asia](https://www.sgi-asia.co.id)** since 2024 —
-adversary simulation, Active Directory, web application testing, and mobile
-security assessments.
+Penetration Tester specializing in adversary simulation, Active Directory security, web application testing, and mobile security assessments.
 
 Off the clock I take apart Android applications, and I automate the parts of
 offensive work that should not need a human.
